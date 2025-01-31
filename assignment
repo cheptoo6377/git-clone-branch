@@ -1,4 +1,4 @@
-[14:29, 1/31/2025] Benard: # Git and GitHub Lesson Project
+
 
 This project is designed to help beginners understand the fundamentals of *Git* and *GitHub*, two essential tools for version control and collaborative software development.
 
@@ -31,4 +31,3 @@ This project is designed to help beginners understand the fundamentals of *Git* 
 1. Clone this repository to your local machine:
    ```bash
    git clone https://github.com/your-username/git-clone-branch.git
-[14:30, 1/31/2025] Benard: copy and paste as it is.
